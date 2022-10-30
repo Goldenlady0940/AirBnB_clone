@@ -152,6 +152,6 @@ def test_user_class_docstring(self) - Test for the User class docstring
 
 ## Authors
 
-Sofonias Ayele
+Sebrina Abdulrezak Teka
 
-Yordanos Dereje
+Mariamawit Guebremedhin
